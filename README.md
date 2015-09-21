@@ -1,2 +1,2 @@
 # graino.github.io
-Grainothèque de la Creuse
+Grainothèque de la Creuse. Ensemble des ressources disponibles
